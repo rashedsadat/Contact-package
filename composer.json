@@ -9,7 +9,7 @@
             "email": "68508040+rashedsadat@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "techdoom-testpkg/contact": "1.0.0"
     },
