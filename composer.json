@@ -10,9 +10,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "techdoom-testpkg/contact": "1.0.0"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "Testpkg\\Contact\\": "src/"
