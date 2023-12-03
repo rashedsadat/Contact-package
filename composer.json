@@ -1,0 +1,19 @@
+{
+    "name": "testpkg/contact",
+    "description": "Testing package development for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md. Shahadat Hossen",
+            "email": "68508040+rashedsadat@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Testpkg\\Contact\\": "src/"
+        }
+    }
+}
