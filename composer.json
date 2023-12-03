@@ -1,5 +1,5 @@
 {
-    "name": "testpkg/contact",
+    "name": "techdoom-testpkg/contact",
     "description": "Testing package development for laravel",
     "type": "library",
     "license": "MIT",
