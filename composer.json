@@ -9,7 +9,8 @@
             "email": "68508040+rashedsadat@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {
         "php": "^8.1.10"
     },
